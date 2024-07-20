@@ -20,6 +20,7 @@
 
 #ifndef _HAL_H_
 #define _HAL_H_
+#define PCBX7
 
 // Keys
 #if defined(PCBX9E)
